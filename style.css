@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+* {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+p {
+  margin-left: 40px;
+  color: #666;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 3.75em;
+  color: #333;
+  font-weight: 700;
+  margin-bottom: 25px;
+  line-height: 1.2em;
+  margin-left: 40px;
+}
+h2 {
+  color: #0289cb;
+  margin-bottom: 25px;
+  margin-left: 40px;
+  font-size: 44px;
+}
+h3 {
+  margin-left: 40px;
+}
+.excerpt {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.625em;
+  color: #666;
+  margin-left: 40px;
+  margin-top: -5px;
+}
+
+.color-primario {
+  color: #0289cb;
+  padding: 0 25px 0 0;
+  font-size: 1.125em;
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0);
+  margin: 0 0 15px 0 !important;
+  display: inline-block;
+  text-transform: uppercase;
+}
+.margen-hacia-la-derecha {
+  color: #0289cb;
+  font-size: 1.125em;
+  font-weight: 700;
+  margin-bottom: 15px !important;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.tamañoImagen {
+  width: 60%;
+}
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 10px;
+}
+.redes {
+  width: 50px;
+  border-radius: 120px;
+}
+.figcaptionDerecha {
+  text-align: right;
+  float: right;
+  max-width: 25%;
+  color: #474747;
+}
+.figcaptionizquierda {
+  font-size: 0.875em;
+  font-weight: 400;
+  color: #474747;
+  line-height: 1.1em;
+  padding: 15px 0;
+}
+.DivFigureCaption {
+  width: 60%;
+}
+.spanblue {
+  color: #0289cb;
+}
+.divNav {
+  padding-left: 40px;
+  margin-top: -10px;
+}
+.tema {
+  border: 1px solid #0289cb;
+  font-weight: 400;
+  font-size: 1em;
+  color: #0289cb;
+  padding: 10px 15px;
+  line-height: 1;
+  margin: 0 10px 20px 0;
+  text-transform: uppercase;
+  
+}
