@@ -72,9 +72,6 @@ ul li {
   border-radius: 120px;
 }
 .figcaptionDerecha {
-  text-align: right;
-  float: right;
-  max-width: 25%;
   color: #474747;
 }
 .figcaptionizquierda {
@@ -82,10 +79,11 @@ ul li {
   font-weight: 400;
   color: #474747;
   line-height: 1.1em;
-  padding: 15px 0;
 }
 .DivFigureCaption {
   width: 60%;
+  display: flex;
+  justify-content:space-between;
 }
 .spanblue {
   color: #0289cb;
